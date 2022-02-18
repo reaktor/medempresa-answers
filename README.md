@@ -22,36 +22,36 @@ This is a work in progress and these answers currently guarnatee a score of 83.6
 ## Question 2
 
 * Noise, temperature and lighting are determining factors in the identification of mechanical hazards.
-    * Falso (false)
+    * **Falso (false)**
 
 * Falls from height and at the same Level are risk factors associated with Mechanical Risks.
-    * Verdadeiro (true)
+    * **Verdadeiro (true)**
 
 * Hazard signaling is red in triangular geometric shape.
-    * Falso (false)
+    * **Falso (false)**
 
 * Physical Hazard is related to the possibility of clash with materials.
-    * Verdadeiro (true)
+    * **Verdadeiro (true)**
 
 * For the effective control of chemical pollutants in indoor air, the regular maintenance of air renewal and air conditioning systems and their registration is essential.
-    * Verdadeiro (true)
+    * **Verdadeiro (true)**
 
 * According to the law, it is considered an accident at work, the one that occurs on a Saturday afternoon, when performing tasks in the company, without the authorization of the employer.
-    * Falso (false)
+    * **Falso (false)**
 
 * The handling of products used to clean and sanitize the facilities does not constitute a risk of exposure to chemical products.
-    * Falso (false)
+    * **Falso (false)**
 
 * Electrical hazards can come from two sources:
     1. Direct contact.
     2. Indirect contacts.
-    * Falso (false)
+    * **Falso (false)**
 
 * Professional stress does not depend exclusively on individual factors.
-    * Verdadeiro (true)
+    * **Verdadeiro (true)**
 
 * The Emergency Signaling is in rectangular or square format and in orange background.
-    * Falso (false)
+    * **Falso (false)**
 
 ## Question 3
 Only **correct** answers.
